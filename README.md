@@ -41,6 +41,6 @@ This clone is built using:
 Want to run it locally?
 
 ```bash
-git clone https://github.com/yourusername/spotify-clone-html-css.git
+git clone https://github.com/AdnanIdrisi/Spotify-clone-using-HTML-and-CSS.git
 cd spotify-clone-html-css
 open index.html
