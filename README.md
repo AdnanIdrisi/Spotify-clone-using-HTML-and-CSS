@@ -4,8 +4,9 @@ Welcome to the **Spotify Frontend Clone** – no JavaScript, no APIs, just pure 
 
 ## 🚀 Live Demo
 
-> [🔗 Click here to check it out in action](#)  
-*(https://adnanidrisi.github.io/Spotify-clone-using-HTML-and-CSS/)*
+> [🔗 Click here to check it out in action](https://adnanidrisi.github.io/Spotify-clone-using-HTML-and-CSS/)  
+*(Hosted via GitHub Pages)*
+
 
 ## 🧰 Tech Stack
 
