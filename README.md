@@ -2,6 +2,10 @@
 
 Welcome to the **Spotify Frontend Clone** – no JavaScript, no APIs, just pure old-school HTML and CSS doing all the heavy lifting. Think of it as Spotify’s stylish twin that looks great but doesn’t play music... yet.
 
+## 🚀 Live Demo
+
+> [🔗 Click here to check it out in action](#)  
+*(https://adnanidrisi.github.io/Spotify-clone-using-HTML-and-CSS/)*
 
 ## 🧰 Tech Stack
 
