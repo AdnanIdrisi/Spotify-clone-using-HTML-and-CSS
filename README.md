@@ -24,6 +24,14 @@ This clone is built using:
 - ✅ Sidebar navigation
 - ✅ Footer with basic player UI
 
+## 📸 Screenshots
+
+| Desktop View |
+|--------------|
+| ![Desktop Screenshot](./screenshot/Screenshot%201.png) |
+| ![Desktop Screenshot](./screenshot/Screenshot%202.png) |
+| ![Desktop Screenshot](./screenshot/Screenshot%203.png) |
+| ![Desktop Screenshot](./screenshot/Screenshot%204.png) |
 
 ## 🛠️ Installation
 
