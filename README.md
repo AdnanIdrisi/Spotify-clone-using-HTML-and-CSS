@@ -2,10 +2,13 @@
 
 Welcome to the **Spotify Frontend Clone** – no JavaScript, no APIs, just pure old-school HTML and CSS doing all the heavy lifting. Think of it as Spotify’s stylish twin that looks great but doesn’t play music... yet.
 
+
+
 ## 🚀 Live Demo
 
 > [🔗 Click here to check it out in action](https://adnanidrisi.github.io/Spotify-clone-using-HTML-and-CSS/)  
 *(Hosted via GitHub Pages)*
+
 
 
 ## 🧰 Tech Stack
@@ -16,6 +19,8 @@ This clone is built using:
 - 🖌️ **CSS3** – Layout, grid/flexbox magic, and styling galore
 - 🤷‍♂️ **Zero JavaScript** – Because sometimes, less *is* more
 
+
+
 ## 🎯 Features
 
 - ✅ Responsive layout (desktop & mobile friendly)
@@ -23,6 +28,8 @@ This clone is built using:
 - ✅ Playlist & album UI elements
 - ✅ Sidebar navigation
 - ✅ Footer with basic player UI
+
+
 
 ## 📸 Screenshots
 
@@ -32,6 +39,8 @@ This clone is built using:
 | ![Desktop Screenshot](./screenshot/Screenshot%202.png) |
 | ![Desktop Screenshot](./screenshot/Screenshot%203.png) |
 | ![Desktop Screenshot](./screenshot/Screenshot%204.png) |
+
+
 
 ## 🛠️ Installation
 
