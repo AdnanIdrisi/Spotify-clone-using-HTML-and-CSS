@@ -34,7 +34,6 @@ This clone is built using:
 | ![Desktop Screenshot](./screenshot/Screenshot%201.png) |
 | ![Desktop Screenshot](./screenshot/Screenshot%202.png) |
 | ![Desktop Screenshot](./screenshot/Screenshot%203.png) |
-| ![Desktop Screenshot](./screenshot/Screenshot%204.png) |
 
 <br><br>
 ## 🛠️ Installation
